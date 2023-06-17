@@ -109,7 +109,21 @@ killall com.miui.notification
 
 - 联系人的详细页面没法打开
 - 不能双开
- 
+
+===========================================================================================
+一、打开ROM制作工具，选择实用工具-new.dat编辑
+
+接着 选择system.new.dat和system.transfer.list选项 
+找到刚才解压的对应文件，选择完毕后就可以点击 开始转换 等待几分钟即可完成
+img需要使用7zip打开
+二、将img转换成new.dat格式
+
+解压ROM里的system.img文件，然后打开ROM制作工具，选择实用工具-new.dat编辑
+
+点击 选择img文件 打开解压出来的system.img
+
+打开后直接点击 开始转换 
+=========================================================================================== 
 
 [![Build Status](https://travis-ci.org/linusyang92/mipay-extract.svg)](https://travis-ci.org/linusyang92/mipay-extract)
 
