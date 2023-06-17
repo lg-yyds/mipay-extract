@@ -123,7 +123,10 @@ img需要使用7zip打开
 点击 选择img文件 打开解压出来的system.img
 
 打开后直接点击 开始转换 
+
 =========================================================================================== 
+
+
 
 [![Build Status](https://travis-ci.org/linusyang92/mipay-extract.svg)](https://travis-ci.org/linusyang92/mipay-extract)
 
